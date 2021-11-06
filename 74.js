@@ -1,0 +1,1 @@
+let yourArray = ['Bogdan', 27, {isProgrammer: true}, false, 'Kosnyrev']
